@@ -38,8 +38,6 @@ I’m especially interested in the intersection of **data, product, and AI**, an
 
 ## 🚀 Featured Projects
 
-*(These are placeholders — you can replace them with real GitHub repos)*
-
 ### 🔹 Analytics 500 Reporting Suite  
 Customer-facing dashboard suite enabling HR insights.
 
